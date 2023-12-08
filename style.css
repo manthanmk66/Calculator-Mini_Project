@@ -1,0 +1,80 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-image: 
+    url("wall1.jpg");;
+    background-image: opa;
+
+
+    
+    
+
+}
+.wrapper{
+   
+    
+
+    align-items: center;
+    margin-top: 10rem;
+    margin-bottom:15rem ;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    background: transparent;
+    
+    border: 3px solid black;
+    
+    
+   
+    
+    
+    
+    
+}
+
+#operation{
+    border-radius: 1ch;
+    border:2px solid black;
+    background: transparent;
+   
+}
+
+pre{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+    
+    
+    
+}
+
+#n1,#n2,#btn{
+   border-radius: 0ch;
+   border:2px solid black;
+   overflow: hidden;
+   background: transparent;
+
+
+
+   
+   
+}
+
+
+input[type="number"]
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background: transparent;
+}
+
+p{
+
+    background:transparent;
+
+}
+
+span{
+    background:transparent;
+
+}
