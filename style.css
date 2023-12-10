@@ -3,38 +3,34 @@
     font-weight: bold;
     background-image: 
     url("wall1.jpg");;
-    background-image: opa;
-
-
-    
-    
+    background-image: opa;    
 
 }
 .wrapper{
    
     
-
+    position: absolute;
+    top: 50%;
+    left: 51%;
+    translate: -50% -50%;
+    height: 320px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    margin-top: 10rem;
-    margin-bottom:15rem ;
-    margin-left: 30rem;
-    margin-right: 30rem;
-    background: transparent;
-    
-    border: 3px solid black;
-    
-    
-   
-    
-    
-    
-    
+    justify-content: space-evenly;
+    background: #ffffff1a;
+    border-radius: 15px;
+    padding: 20px 50px;    
 }
 
-#operation{
+
+
+#operation,#btn{
     border-radius: 1ch;
     border:2px solid black;
     background: transparent;
+    
    
 }
 
@@ -48,15 +44,13 @@ pre{
     
 }
 
-#n1,#n2,#btn{
+#n1,#n2{
    border-radius: 0ch;
    border:2px solid black;
-   overflow: hidden;
-   background: transparent;
-
-
-
+   justify-content: space-evenly;
+  
    
+   background: transparent;  
    
 }
 
